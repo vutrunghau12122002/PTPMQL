@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\PTPMQL\\newApp\\newApp.csproj",
+      "projectUniqueName": "G:\\PTPMQL\\Project\\newApp\\newApp.csproj",
       "projectName": "newApp",
-      "projectPath": "G:\\PTPMQL\\newApp\\newApp.csproj",
+      "projectPath": "G:\\PTPMQL\\Project\\newApp\\newApp.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "G:\\PTPMQL\\newApp\\obj\\",
+      "outputPath": "G:\\PTPMQL\\Project\\newApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -12,3 +12,17 @@ G:\PTPMQL\newApp\obj\Debug\net7.0\refint\newApp.dll
 G:\PTPMQL\newApp\obj\Debug\net7.0\newApp.pdb
 G:\PTPMQL\newApp\obj\Debug\net7.0\newApp.genruntimeconfig.cache
 G:\PTPMQL\newApp\obj\Debug\net7.0\ref\newApp.dll
+G:\PTPMQL\Project\newApp\bin\Debug\net7.0\newApp.exe
+G:\PTPMQL\Project\newApp\bin\Debug\net7.0\newApp.deps.json
+G:\PTPMQL\Project\newApp\bin\Debug\net7.0\newApp.runtimeconfig.json
+G:\PTPMQL\Project\newApp\bin\Debug\net7.0\newApp.dll
+G:\PTPMQL\Project\newApp\bin\Debug\net7.0\newApp.pdb
+G:\PTPMQL\Project\newApp\obj\Debug\net7.0\newApp.GeneratedMSBuildEditorConfig.editorconfig
+G:\PTPMQL\Project\newApp\obj\Debug\net7.0\newApp.AssemblyInfoInputs.cache
+G:\PTPMQL\Project\newApp\obj\Debug\net7.0\newApp.AssemblyInfo.cs
+G:\PTPMQL\Project\newApp\obj\Debug\net7.0\newApp.csproj.CoreCompileInputs.cache
+G:\PTPMQL\Project\newApp\obj\Debug\net7.0\newApp.dll
+G:\PTPMQL\Project\newApp\obj\Debug\net7.0\refint\newApp.dll
+G:\PTPMQL\Project\newApp\obj\Debug\net7.0\newApp.pdb
+G:\PTPMQL\Project\newApp\obj\Debug\net7.0\newApp.genruntimeconfig.cache
+G:\PTPMQL\Project\newApp\obj\Debug\net7.0\ref\newApp.dll
