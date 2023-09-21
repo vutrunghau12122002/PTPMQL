@@ -1,9 +1,11 @@
-﻿internal class Program
+﻿using PTPMQL.Models;
+public class Preson
 {
-private static void Main (string[] args)
-{
-string hoTen = " Vu Trung Hau";
-int msv = 2021050246;
-Console.WriteLine("Sinh vien {0} - {1}",hoTen,msv);
-}
+    private static void Main(string[] args)
+    {
+        Person ps = new Person();
+        ps.Hovaten = "vu trung hau";
+        ps.CMT = "2021050246";
+        ps.HienThi();
+    }
 }
